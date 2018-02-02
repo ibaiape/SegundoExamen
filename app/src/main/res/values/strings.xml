@@ -8,6 +8,9 @@
     <string name="btnVolver">Volver</string>
     <string name="txtTiempo1">Escoge una de las siguientes localidades: </string>
     <string name="txtTiempo2">Tiempo actual en: </string>
+    <string name="txtBilbo">Bilbo-Bilbao</string>
+    <string name="txtVitoria">Vitoria-Gasteiz</string>
+    <string name="txtDonostia">Donostia-San Sebastian</string>
     <string name="txtAtomico">Introduce nombre de elemento quimico: </string>
     <string name="btnInformacion">Información del elemento</string>
     <string name="txtSimbolo">Simbolo quimico: </string>
