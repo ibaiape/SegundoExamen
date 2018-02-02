@@ -28,4 +28,9 @@ public class MainActivity extends AppCompatActivity {
         Intent Ejer3 = new Intent(MainActivity.this, Multimedia.class);
         startActivity(Ejer3);
     }
+
+    public void exit(View v){
+        finish();
+    }
+
 }
