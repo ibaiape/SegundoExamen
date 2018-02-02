@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Examen 2º Periodo de Evaluación</string>
+    <string name="menuPrincipal">MENU PRINCIPAL</string>
+    <string name="btnTiempo">El tiempo</string>
+    <string name="btnAtomico">Datos Atómicos</string>
+    <string name="btnMultimedia">Multimedia</string>
+    <string name="btnSalir">Exit</string>
+    <string name="btnVolver">Volver</string>
+    <string name="txtTiempo1">Escoge una de las siguientes localidades: </string>
+    <string name="txtTiempo2">Tiempo actual en: </string>
+    <string name="txtAtomico">Introduce nombre de elemento quimico: </string>
+    <string name="btnInformacion">Información del elemento</string>
+    <string name="txtSimbolo">Simbolo quimico: </string>
+    <string name="txtNumero">Numero Atomico: </string>
+    <string name="txtPeso">Peso Atomico: </string>
+    <string name="txtPunto">Punto de Ebullición: </string>
+    <string name="txtDensidad">Densidad: </string>
+    <string name="titMultimedia">Sonidos Animales de Granja</string>
+    <string name="txtMultimedia">Animales de Granja </string>
+</resources>
